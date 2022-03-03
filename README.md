@@ -3,7 +3,7 @@
 
 Hello there👋🏾 & Welcome!
 
-My name is Breia! I am Originally From Syracuse, NY but I have relocated to Greensboro, NC. I am currently in a full stack coding boot camp. I also freelance in my spare time. I have experience with HTML CSS as well as javeScript. I also have experience with wordpress square space and godaddy. You can check out my twitter at https://twitter.com/BreeTheGemini or on LinkedIn at https://www.linkedin.com/in/breia-john-0731558a.
+My name is Breia! I am Originally From Syracuse, NY but I have relocated to Greensboro, NC. I am currently in a full stack coding boot camp. I also freelance in my free time. You can check out my twitter at https://twitter.com/BreeTheGemini or on LinkedIn at https://www.linkedin.com/in/breia-john-0731558a.
 
 - 🔭 I’m currently working on Developing my skills for my dream position as a Software Developer 
 - 🌱 I’m currently learning Full Stack web Development 

@@ -12,7 +12,7 @@ My name is Breia! I am Originally From Syracuse, NY but I have relocated to Gree
 ## Skills and Expereince
 * 💻  HTML, CSS, JS
 
-## Contact Me!
+## Contact by clicking a link below 👇🏾
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BreiaJohn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/breia-john-0731558a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/BreeTheGemini)  
 
 ![Profile views](https://gpvc.arturio.dev/BreiaJohn)  

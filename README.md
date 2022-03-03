@@ -12,6 +12,7 @@ My name is Breia! I am Originally From Syracuse, NY but I have relocated to Nort
 - 📫 How to reach me: Breiamj4@gmail.com 
 - ⚡ Fun fact: I used to be a school bus driver 🚌
 
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BreiaJohn)
 
 

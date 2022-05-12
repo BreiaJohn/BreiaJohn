@@ -4,8 +4,6 @@
 <p align="left"> <a href="twitter.com/breia_john" target="blank"><img src="https://img.shields.io/twitter/follow/@breia_john?logo=twitter&style=for-the-badge" alt="@breia_john" /></a> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=breiajohn&label=Profile%20views&color=0e75b6&style=flat" alt="breiajohn" /> </p>
-
 - 🔭 I’m currently working on [building a landing page](https://codepen.io/breiajohn/pen/rNJMBGL)
 
 - 🌱 I’m currently learning **javaScript, OOP, api's**

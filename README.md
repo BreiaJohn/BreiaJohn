@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breiajohn&label=Profile%20views&color=0e75b6&style=flat" alt="breiajohn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=breiajohn" alt="breiajohn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@breia_john" target="blank"><img src="https://img.shields.io/twitter/follow/@breia_john?logo=twitter&style=for-the-badge" alt="@breia_john" /></a> </p>
+<p align="left"> <a href="https://twitter.com/breia_john" target="blank"><img src="https://img.shields.io/twitter/follow/@breia_john?logo=twitter&style=for-the-badge" alt="@breia_john" /></a> </p>
 
 - 🔭 I’m currently working on [building a landing page](https://codepen.io/breiajohn/pen/rNJMBGL)
 

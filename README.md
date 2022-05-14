@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Breia John</h1>
+.<h1 align="center">Hi 👋, I'm Breia John</h1>
 <h3 align="center">A passionate fullstack developer located in Greensboro NC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breiajohn&label=Profile%20views&color=0e75b6&style=flat" alt="breiajohn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/breia_john" target="blank"><img src="https://img.shields.io/twitter/follow/breia_john?logo=twitter&style=for-the-badge" alt="breia_john" /></a> </p>
 
-<h3 align="left">Support:</h3>
+
 <p><a href="https://www.buymeacoffee.com/breiamj4E"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" https://www.buymeacoffee.com/breiamj4E" /></a></p><br><br>
+
+
+
 
 
 - 🔭 I’m currently working on [building a landing page](https://codepen.io/breiajohn/pen/rNJMBGL)

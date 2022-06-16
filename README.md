@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **various open source projects**
 
-- 👨‍💻 All of my projects are available at [https://breiamjwebdev.com/](https://breiamjwebdev.com/)
+- 👨‍💻 All of my projects are available at [bmjwebdev.com](https://bmjwebdev.com)
 
 - 📫 How to reach me **breiamj4@gmail.com**
 

@@ -1,4 +1,4 @@
-.<h1 align="center">Hi 👋, I'm Breia John</h1>
+<h1 align="center">Hi 👋, I'm Breia John</h1>
 <h3 align="center">A passionate fullstack developer located in Greensboro NC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breiajohn&label=Profile%20views&color=0e75b6&style=flat" alt="breiajohn" /> </p>
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **breiamj4@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1E-fstZ5ILBRyKfHxazpM8cJxi2eeLp8B/edit](https://docs.google.com/document/d/1E-fstZ5ILBRyKfHxazpM8cJxi2eeLp8B/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1q9bG2_qxnYamUDRDoVif-AoBoXtPREmx/edit](https://docs.google.com/document/d/1q9bG2_qxnYamUDRDoVif-AoBoXtPREmx/edit)
 
 - ⚡ Fun fact **I once specialized in newborn care for twins**
 

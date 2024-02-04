@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Breia John</h1>
-<h3 align="center">A passionate fullstack developer located in Greensboro NC</h3>
+<h3 align="center">A passionate frontend developer located in Greensboro NC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=breiajohn&label=Profile%20views&color=0e75b6&style=flat" alt="breiajohn" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [building a landing page](https://codepen.io/breiajohn/pen/rNJMBGL)
 
-- 🌱 I’m currently learning **javaScript, OOP, api's**
+- 🌱 I’m currently learning **react**
 
 - 👯 I’m looking to collaborate on **various open source projects**
 

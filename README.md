@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on [building a landing page](https://codepen.io/breiajohn/pen/rNJMBGL)
+- 🔭 I’m currently working on [revamping my portfolio](https://bmjwebdev.com/)
 
 - 🌱 I’m currently learning **react**
 

@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **breiamj4@gmail.com**
 
-- 📄 Know about my experiences(https://drive.google.com/file/d/1Fid7_wSyfF5sGGk6yHqni2ApLSuFMVdt/view?usp=sharing)
+- 📄 Know about my experiences([resume](https://drive.google.com/file/d/1Fid7_wSyfF5sGGk6yHqni2ApLSuFMVdt/view?usp=sharing))
 
 - ⚡ Fun fact **I once specialized in newborn care for twins**
 
